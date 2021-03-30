@@ -1,0 +1,2 @@
+# wgtf
+Azure wireguard server
